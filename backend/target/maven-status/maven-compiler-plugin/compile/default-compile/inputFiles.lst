@@ -1,0 +1,17 @@
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\Application.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\controller\AlertController.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\controller\CropController.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\controller\FarmerController.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\controller\ReactAppController.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\model\CropForecast.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\model\CropRecommendationDto.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\model\Farmer.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\model\ForecastPoint.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\model\PriceAlert.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\model\PricePoint.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\repository\CropForecastRepository.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\repository\FarmerRepository.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\repository\PriceAlertRepository.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\service\AlertService.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\service\CropService.java
+C:\Users\Hariharanpraveen\Desktop\CROP PRICE PREDICTION & MARKET ADVISORY SYSTEM\backend\src\main\java\com\agri\service\FarmerService.java
